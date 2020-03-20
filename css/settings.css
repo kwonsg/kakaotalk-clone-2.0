@@ -1,0 +1,17 @@
+.settings {
+  border-top: 1px solid #f7f7f7;
+}
+
+.settings .settings__sections {
+  border-bottom: 1px solid #f7f7f7;
+  padding: 20px 0px;
+}
+
+.settings__setting .settings__icon {
+  font-size: 20px;
+  margin-right: 10px;
+}
+
+.settings__list .settings__setting {
+  margin-bottom: 20px;
+}
